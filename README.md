@@ -48,4 +48,4 @@ As this is a classification problem, I will be utilising supervised machine lear
 
 ---
 
-Feel free to send me your queries at vihasharma1099@email.com
+Feel free to send me your queries at rishitachouhan@icloud.com
